@@ -1,0 +1,10 @@
+.svg-layout{
+  max-width: 60rem;
+}
+
+.plate{
+  fill: #ffc300;
+
+  stroke: black;
+  stroke-width: .5px;
+}
