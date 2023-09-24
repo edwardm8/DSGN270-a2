@@ -2,9 +2,20 @@
   max-width: 60rem;
 }
 
+/* plate path */
 .plate{
   fill: #ffc300;
+}
+
+/* utensils path */
+.utensils{
+  fill: gray;
 
   stroke: black;
   stroke-width: .5px;
+}
+
+/* food path */
+.food{
+  fill: #e7302a;
 }
